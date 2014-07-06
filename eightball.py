@@ -1,6 +1,7 @@
 #!/usr/local/bin/python3
 # Author: Deron K. Holmes
-#Purpose: Reddit Project - Magic 8-Ball Game
+# Purpose: Reddit Project - Magic 8-Ball Game
+
 import random
 import time, sys
 play_again = 'yes'
